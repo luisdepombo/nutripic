@@ -1,0 +1,1 @@
+console.log("Hello, Node with TypeScript, deployec to Firebase and then called with curl!");
